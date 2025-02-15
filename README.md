@@ -6,3 +6,5 @@ Currently working on Rust side projects and going in-depth on data structures, d
 
 #### Contact:
 - Email: joaovitorpassos.dev@gmail.com
+
+*SDG*
