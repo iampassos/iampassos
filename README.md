@@ -4,7 +4,4 @@ Just a Christian software developer and Computer Science undergraduate who loves
 
 Currently working on Rust side projects and going in-depth on data structures, databases and operating systems.
 
-#### Contact:
-- Email: joaovitorpassos.dev@gmail.com
-
 *SDG*
